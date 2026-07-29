@@ -4,7 +4,7 @@
 
 ### Anonimización de datos en reposo
 
-Libreta de práctica para los estudiantes del curso CIB-209, Temas Especiales en Seguridad de Datos y Sistemas. Eje del curso: seguridad de datos en la fase de almacenamiento.
+Libreta de práctica para los estudiantes del curso CIB-209, Temas Especiales en Seguridad de Datos y Sistemas.
 
 ## Aviso sobre los datos
 
